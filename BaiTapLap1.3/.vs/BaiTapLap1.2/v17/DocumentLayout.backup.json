@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\BaiTapLap1.2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB6123C-D0F1-4EDE-B48C-C01462237850}|BaiTapLap1.2\\BaiTapLap1.2.csproj|c:\\baitaplap1.2\\baitaplap1.2\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB6123C-D0F1-4EDE-B48C-C01462237850}|BaiTapLap1.2\\BaiTapLap1.2.csproj|solutionrelative:baitaplap1.2\\bai1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CB6123C-D0F1-4EDE-B48C-C01462237850}|BaiTapLap1.2\\BaiTapLap1.2.csproj|c:\\baitaplap1.2\\baitaplap1.2\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CB6123C-D0F1-4EDE-B48C-C01462237850}|BaiTapLap1.2\\BaiTapLap1.2.csproj|solutionrelative:baitaplap1.2\\bai2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai2.cs",
+              "DocumentMoniker": "C:\\BaiTapLap1.2\\BaiTapLap1.2\\Bai2.cs",
+              "RelativeDocumentMoniker": "BaiTapLap1.2\\Bai2.cs",
+              "ToolTip": "C:\\BaiTapLap1.2\\BaiTapLap1.2\\Bai2.cs",
+              "RelativeToolTip": "BaiTapLap1.2\\Bai2.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:02:42.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai1.cs",
+              "DocumentMoniker": "C:\\BaiTapLap1.2\\BaiTapLap1.2\\Bai1.cs",
+              "RelativeDocumentMoniker": "BaiTapLap1.2\\Bai1.cs",
+              "ToolTip": "C:\\BaiTapLap1.2\\BaiTapLap1.2\\Bai1.cs",
+              "RelativeToolTip": "BaiTapLap1.2\\Bai1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAawBIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T12:02:06.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

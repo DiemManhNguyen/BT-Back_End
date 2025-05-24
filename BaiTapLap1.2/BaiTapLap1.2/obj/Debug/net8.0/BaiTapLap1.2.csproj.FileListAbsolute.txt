@@ -1,0 +1,14 @@
+C:\BaiTapLap1.2\BaiTapLap1.2\bin\Debug\net8.0\BaiTapLap1.2.exe
+C:\BaiTapLap1.2\BaiTapLap1.2\bin\Debug\net8.0\BaiTapLap1.2.deps.json
+C:\BaiTapLap1.2\BaiTapLap1.2\bin\Debug\net8.0\BaiTapLap1.2.runtimeconfig.json
+C:\BaiTapLap1.2\BaiTapLap1.2\bin\Debug\net8.0\BaiTapLap1.2.dll
+C:\BaiTapLap1.2\BaiTapLap1.2\bin\Debug\net8.0\BaiTapLap1.2.pdb
+C:\BaiTapLap1.2\BaiTapLap1.2\obj\Debug\net8.0\BaiTapLap1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\BaiTapLap1.2\BaiTapLap1.2\obj\Debug\net8.0\BaiTapLap1.2.AssemblyInfoInputs.cache
+C:\BaiTapLap1.2\BaiTapLap1.2\obj\Debug\net8.0\BaiTapLap1.2.AssemblyInfo.cs
+C:\BaiTapLap1.2\BaiTapLap1.2\obj\Debug\net8.0\BaiTapLap1.2.csproj.CoreCompileInputs.cache
+C:\BaiTapLap1.2\BaiTapLap1.2\obj\Debug\net8.0\BaiTapLap1.2.dll
+C:\BaiTapLap1.2\BaiTapLap1.2\obj\Debug\net8.0\refint\BaiTapLap1.2.dll
+C:\BaiTapLap1.2\BaiTapLap1.2\obj\Debug\net8.0\BaiTapLap1.2.pdb
+C:\BaiTapLap1.2\BaiTapLap1.2\obj\Debug\net8.0\BaiTapLap1.2.genruntimeconfig.cache
+C:\BaiTapLap1.2\BaiTapLap1.2\obj\Debug\net8.0\ref\BaiTapLap1.2.dll
